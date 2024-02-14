@@ -2170,6 +2170,10 @@ Henry Dieckhaus, Michael Brocidiacono, Nicholas Z. Randolph, and Brian Kuhlman
 > More detailed protein representation learning list:  
 >[Lirong Wu](https://github.com/LirongWu)'s [awesome-protein-representation-learning](https://github.com/LirongWu/awesome-protein-representation-learning)
 
+**X-LoRA: Mixture of Low-Rank Adapter Experts, a Flexible Framework for Large Language Models with Applications in Protein Mechanics and Design**
+Eric L. Buehler, and Markus J. Buehler
+[arXiv](https://arxiv.org/abs/2402.07148) • Feb 2024
+
 **Unified rational protein engineering with sequence-based deep representation learning**  
 Alley, Ethan C., et al.  
 [Nature methods 16.12 (2019)](https://www.nature.com/articles/s41592-019-0598-1)
